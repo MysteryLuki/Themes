@@ -3,14 +3,15 @@
 
 ![Maintainer](https://img.shields.io/badge/maintainer-bocajthomas-black)
 
-# SE Extended Themes
-Welcome to the SE Extended Themes repository! <br>
-Here you can upload your custom themes and download themes created by other users
+# SE Extended Custom Themes
+A catalog of custom snapchat themes.
+
+Here you can upload your custom themes or download themes created by other users
 </div>
 
 ## How to Download a Theme
 1. **Add This Repository to SE Extended**:
-    - Copy This Link `https://github.com/SE-Extended/Themes`.
+    - Copy This Link `https://github.com/SE-Extended/custom-themes`.
     - Open `SE Extended`.
     - Head To The `Quick Actions`.
     - Click `Theming`.
@@ -82,7 +83,7 @@ Here you can upload your custom themes and download themes created by other user
     ```
    - Commit the changes.
 4. **Create a Pull Request**:
-    - Go back to [SE-Extended/Themes](https://github.com/SE-Extended/Themes)
+    - Go back to [SE-Extended/Themes](https://github.com/SE-Extended/custom-themes)
     - Click on `Pull Requests` and then click `New Pull Request`.
     - Select your forked repository and the branch with your theme.
     - Create the pull request.
