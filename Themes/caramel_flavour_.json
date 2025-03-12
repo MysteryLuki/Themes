@@ -1,26 +1,26 @@
 {
-  "author": "SE Extended",
+  "author": "Beingzain",
   "content": {
     "colors": [
       {
         "key": "sigColorTextPrimary",
-        "value": -1
+        "value": -16777216
       },
       {
         "key": "sigColorBackgroundSurface",
-        "value": -16777216
+        "value": -6197177
       },
       {
         "key": "sigColorBackgroundMain",
-        "value": -16777216
+        "value": -6197177
       },
       {
         "key": "actionSheetBackgroundDrawable",
-        "value": -16777216
+        "value": -6197177
       },
       {
         "key": "actionSheetRoundedBackgroundDrawable",
-        "value": -16777216
+        "value": -6197177
       },
       {
         "key": "sigColorChatChat",
@@ -32,11 +32,11 @@
       },
       {
         "key": "sigColorChatSnapWithSound",
-        "value": -1
+        "value": -14207745
       },
       {
         "key": "sigColorChatSnapWithoutSound",
-        "value": -1
+        "value": -65501
       },
       {
         "key": "sigExceptionColorCameraGridLines",
@@ -48,11 +48,11 @@
       },
       {
         "key": "listBackgroundDrawable",
-        "value": -16777216
+        "value": -6197177
       },
       {
         "key": "sigColorIconPrimary",
-        "value": -1
+        "value": -7536896
       },
       {
         "key": "actionSheetDescriptionTextColor",
@@ -64,7 +64,7 @@
       },
       {
         "key": "sigColorIconSecondary",
-        "value": -1
+        "value": -7536896
       },
       {
         "key": "itemShapeFillColor",
@@ -76,7 +76,7 @@
       },
       {
         "key": "sigColorLayoutPlaceholder",
-        "value": -16777216
+        "value": -1
       },
       {
         "key": "scButtonColor",
@@ -84,11 +84,11 @@
       },
       {
         "key": "recipientPillBackgroundDrawable",
-        "value": -16777216
+        "value": -6197177
       },
       {
         "key": "boxBackgroundColor",
-        "value": -16777216
+        "value": -6197177
       },
       {
         "key": "editTextColor",
@@ -96,7 +96,7 @@
       },
       {
         "key": "chipBackgroundColor",
-        "value": -16777216
+        "value": -6197177
       },
       {
         "key": "recipientInputStyle",
@@ -108,7 +108,7 @@
       },
       {
         "key": "pstsIndicatorColor",
-        "value": -1
+        "value": -16777216
       },
       {
         "key": "pstsTabBackground",
@@ -116,7 +116,7 @@
       },
       {
         "key": "pstsDividerColor",
-        "value": -16777216
+        "value": -1
       },
       {
         "key": "tabTextColor",
@@ -124,11 +124,11 @@
       },
       {
         "key": "statusBarForeground",
-        "value": -16777216
+        "value": -6197177
       },
       {
         "key": "statusBarBackground",
-        "value": -16777216
+        "value": -6197177
       },
       {
         "key": "strokeColor",
@@ -148,7 +148,7 @@
       },
       {
         "key": "sigColorBackgroundSurfaceTranslucent",
-        "value": -16777216
+        "value": -6197177
       },
       {
         "key": "sigColorStoryRingFriendsFeedStoryRing",
@@ -160,7 +160,7 @@
       }
     ]
   },
-  "description": "A Full AMOLED Dark Theme",
-  "name": "Full AMOLED Dark",
-  "version": "1.0.1"
+  "description": "Caramel Flavour embodies the essence of warmth \u0026 comfort with it\u0027s luscious golden tones \u0026 intricate depth\nCaramel Flavour Theme is somewhat simple \u0026 clean + asthetically pleasent.",
+  "name": "Caramel Flavour",
+  "version": "1.0.0"
 }

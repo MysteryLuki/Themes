@@ -1,9 +1,17 @@
-# SE Extended Themes
-Welcome to the SE Extended Themes repository!, Here you can upload your custom themes and download themes created by other users
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bocajthomas/SE-Extended/dev/images/logo/SE%20Extended%20Logo.png" height="250" />
+
+![Maintainer](https://img.shields.io/badge/maintainer-bocajthomas-black)
+
+# SE Extended Custom Themes
+A catalog of custom snapchat themes.
+
+Here you can upload your custom themes or download themes created by other users
+</div>
 
 ## How to Download a Theme
 1. **Add This Repository to SE Extended**:
-    - Copy This Link `https://github.com/SE-Extended/Themes`.
+    - Copy This Link `https://github.com/SE-Extended/custom-themes`.
     - Open `SE Extended`.
     - Head To The `Quick Actions`.
     - Click `Theming`.
@@ -29,7 +37,7 @@ Welcome to the SE Extended Themes repository!, Here you can upload your custom t
     - Tap `Theming`.
 2. **Creating a Theme**:
    - Click `+ New theme`.
-    - **Adding MegaData**:
+    - **Adding MetaData**:
        - Give the Theme a name.
        - Click the `arrow down` icon.
        - Give the Theme a `description`.
@@ -60,8 +68,22 @@ Welcome to the SE Extended Themes repository!, Here you can upload your custom t
     - Click on `Add file` and select `Upload files`.
     - Upload your theme JSON file.
     - Commit the changes.
-3. **Create a Pull Request**:
-    - Go back to [SE-Extended/Themes](https://github.com/SE-Extended/Themes)
+3. **Updating the index**:
+   - Navigate to The `index.json`.
+   - Scroll down to the bottom.
+   - Add the following:
+    ```
+    {
+      "name": "Name of theme",
+      "author": "Your name or Github name",
+      "description": "Short description of the theme",
+      "version": "version of the theme",
+      "filepath": "Themes/themefilename.json"
+    }
+    ```
+   - Commit the changes.
+4. **Create a Pull Request**:
+    - Go back to [SE-Extended/Themes](https://github.com/SE-Extended/custom-themes)
     - Click on `Pull Requests` and then click `New Pull Request`.
     - Select your forked repository and the branch with your theme.
     - Create the pull request.

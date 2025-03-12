@@ -4,51 +4,51 @@
     "colors": [
       {
         "key": "sigColorBackgroundMain",
-        "value": -13998168
+        "value": -8420215
       },
       {
         "key": "sigColorBackgroundSurface",
-        "value": -13998168
+        "value": -8420215
       },
       {
         "key": "actionSheetBackgroundDrawable",
-        "value": -13998168
+        "value": -8420215
       },
       {
         "key": "actionSheetRoundedBackgroundDrawable",
-        "value": -13998168
+        "value": -8420215
       },
       {
         "key": "listDivider",
-        "value": -13998168
+        "value": -8420215
       },
       {
         "key": "sigColorTextPrimary",
-        "value": -1
+        "value": -394758
       },
       {
         "key": "sigColorChatChat",
-        "value": -1
+        "value": -394758
       },
       {
         "key": "sigColorChatPendingSending",
-        "value": -1
+        "value": -394758
       },
       {
         "key": "sigColorChatSnapWithSound",
-        "value": -1
+        "value": -394758
       },
       {
         "key": "sigColorChatSnapWithoutSound",
-        "value": -1
+        "value": -394758
       },
       {
         "key": "actionSheetDescriptionTextColor",
-        "value": -1
+        "value": -394758
       }
     ]
   },
-  "description": "History & Heritage ( 6 / 6 )",
-  "name": "Oxford Water",
-  "version": "1.0.2"
+  "description": "Theme Based on the Koala Animal",
+  "name": "Koala 🐨",
+  "version": "1.0.0"
 }
